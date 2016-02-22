@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Smpleloginapp</string>
+    <string name="login_text">Login Page</string>
+    <string name="username_text">User name</string>
+    <string name="password_text">Password</string>
+    <string name="attempts_text">Attempts:</string>
+    <string name="button_login">Login</string>
+    <string name="welcome_text">Welcome to the Second Screen</string>
+</resources>
